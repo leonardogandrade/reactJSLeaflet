@@ -6,4 +6,4 @@
 
 ## Screnshot
 
-![GitHub Logo](https://github.com/leonardogandrade/reactJSLeaflet/etc/reactJSLeaflet_screenshot.png)
+![GitHub Logo](https://github.com/leonardogandrade/reactJSLeaflet/blob/master/etc/reactJSLeaflet_screenshot.png)
